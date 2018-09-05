@@ -1,0 +1,16 @@
+{
+  "name": "@leebrooks3/tslint-config",
+  "version": "1.0.0",
+  "description": "Custom configuration for TSLint.",
+  "main": "tslint.json",
+  "keywords": [
+    "TypeScript",
+    "TSLint"
+  ],
+  "author": "Lee Brooks <leebrooks93@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^5.10.0",
+    "tslint-eslint-rules": "^5.3.1"
+  }
+}
